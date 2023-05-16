@@ -1,0 +1,59 @@
+.block-explorer {
+    width: 800px;
+    margin: 0 auto;
+  }
+  
+  .block-explorer h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .block-explorer h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .block-explorer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .block-explorer li {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+  }
+  
+  .block-explorer li:hover {
+    background-color: #57e94a;
+  }
+  
+  .block-explorer .block-number {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .block-explorer .tx {
+    margin-left: 20px;
+  }
+  
+  .block-explorer .tx-from {
+    font-weight: bold;
+  }
+  
+  .block-explorer .tx-value {
+    font-weight: bold;
+  }
+  
+  .block-explorer .tx-to {
+    font-weight: bold;
+  }
+  
+  .block-explorer .tx-gas-price {
+    font-weight: bold;
+  }
+  
